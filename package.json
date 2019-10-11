@@ -1,0 +1,16 @@
+{
+  "name": "code-11-10-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./src/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-validator": "^6.2.0",
+    "tsv": "^0.2.0"
+  }
+}
